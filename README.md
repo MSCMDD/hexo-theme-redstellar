@@ -1,6 +1,6 @@
-# Stellar - 每个人的独立博客
+# RedStellar - 每个人的独立博客
 
-Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件，请配合 [文档](https://xaoxuu.com/wiki/stellar/) 使用。
+Hexo-Theme-RedStellar 是 [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)的一个分支。
 
 [![Stargazers over time](https://starchart.cc/xaoxuu/hexo-theme-stellar.svg)](https://starchart.cc/xaoxuu/hexo-theme-stellar)
 
@@ -19,7 +19,7 @@ npm: 6.14.13 ~ 10.2.3
 Edit your `_config.yml`:
 
 ```yaml
-theme: stellar
+theme: hexo-theme-redstellar
 ```
 
 Install Stellar in terminal:
